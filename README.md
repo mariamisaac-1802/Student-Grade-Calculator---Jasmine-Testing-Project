@@ -93,4 +93,4 @@ See [REPORT.md](REPORT.md) for the full test report, the unit vs integration com
 
 ## Author
 
-Your Name - Software Testing course assignment
+Mariam Isaac - Software Testing course assignment
