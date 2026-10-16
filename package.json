@@ -1,0 +1,8 @@
+{
+  "name": "student-grade-calculator",
+  "version": "1.0.0",
+  "description": "Student Grade Calculator tested with Jasmine",
+  "main": "src/index.js",
+  "scripts": { "test": "jasmine" },
+  "devDependencies": { "jasmine": "^5.1.0" }
+}
